@@ -1,3 +1,5 @@
+writehat/lib/finding.py
+
 import logging
 from django.db import models
 from writehat.models import *
