@@ -1,4 +1,1 @@
-Added fields:
-impact
-cwe
-description
+Added fields: impact, cwe
